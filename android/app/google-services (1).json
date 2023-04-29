@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239266551691",
+    "project_id": "flash-chat-49e75",
+    "storage_bucket": "flash-chat-49e75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239266551691:android:53aac26c4fac38daf0c18e",
+        "android_client_info": {
+          "package_name": "com.ankitdhattarwal.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239266551691-q14fb6b4iaqu5ni2jg8bsqbo9tikn8gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFfnWfgoTEuK_ipG2rWtrGY7XzRn8ACis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239266551691-q14fb6b4iaqu5ni2jg8bsqbo9tikn8gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
