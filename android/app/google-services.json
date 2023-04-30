@@ -29,6 +29,13 @@
             {
               "client_id": "239266551691-q14fb6b4iaqu5ni2jg8bsqbo9tikn8gg.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "239266551691-0hjd75jh12rmk8guei4m1kkcmevrld50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ankitdhattarwal.chatApp"
+              }
             }
           ]
         }
